@@ -1,3 +1,3 @@
 # This is my first Project.
 <br>
-In this Project , i have to make portfolio website of my mentor.
+In this Project , i made portfolio website of my mentor.
